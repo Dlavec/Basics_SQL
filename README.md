@@ -1,4 +1,11 @@
-# Basics_SQL
+<div id="header" align="center">
+  <img src="https://github.com/Dlavec/Basics_SQL/blob/main/SQL_Basics.jpg" width="800"/>
+  <h1 align="center">Hi, my name is Daiana. It's great to see you here!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
+
+### Basics_SQL
 👩🏼‍💻Práctica básica SQL
 
 1. Creacion de una base de datos y tabla 1 con clave primaria
