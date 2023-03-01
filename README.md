@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://github.com/Dlavec/Basics_SQL/blob/main/Basics_SQL_large.jpg" width="800"/>
-  <h1 align="center">Hi, my name is Daiana. It's great to see you here!
+  <h1 align="center">Que bueno verte aquí!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
